@@ -143,3 +143,14 @@
 ||smetrics.samsung.com^
 ||nmetrics.samsung.com^
 ||analytics-api.samsunghealthcn.com^
+
+#
+# Private Relay Apple
+#
+
+# Apple Private Relay
+||mask.icloud.com^
+||mask-h2.icloud.com^
+||mask-api.icloud.com^
+||mask.apple-dns.net^
+||mask-api.apple-dns.net^
